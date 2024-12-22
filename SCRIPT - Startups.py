@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Técnicas de Machine Learning
-# MBA em Engenharia de Software USP ESALQ
 
-# Prof. Dr. Wilson Tarantin Jr.
 
 #%% Instalando os pacotes necessários
 
